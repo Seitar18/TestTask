@@ -1,0 +1,12 @@
+<suite name="JinniTestTask">
+    <parameter name="domain" value="https://booking.com" />
+    <test name="BookingTests" >
+        <classes>
+            <class name="com.testingbooking.test.MainTest"></class>
+            <class name="com.testingbooking.test.SecondTest"></class>
+        </classes>
+    </test>
+</suite>
+
+
+
