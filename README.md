@@ -19,6 +19,7 @@ For running tests use command **gradlew clean test** from project directory
 3. **initializations** directory - package with only one file - Wrappers.java, which is used for wrapping Selenium methods.
 
 /test:
+
 **Resources** directory - resources with ChromeDriver for Windows and test-suite file TestNG.xml.
 
 ## TESTS STRUCTURE
