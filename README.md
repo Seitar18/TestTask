@@ -4,7 +4,7 @@
 
 1. Use Windows 10 x64 and Chrome 60 x64 with defined JAVA_HOME(doesn't tested on other environments)
 2. Clone project from github.
-3. Run command **gradle init** from project directory.
+3. Run command **gradlew init** from project directory.
 
 ## RUNNING TESTS
 
